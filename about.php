@@ -20,5 +20,12 @@
             echo "<p>" . $element . "</p>";
         }
     ?>
+
+    <ul>
+      <li>
+        <a href="index.php">Index</a>
+        <a href="contact.php">Contact</a>
+      </li>
+    </ul>
 </body>
 </html>

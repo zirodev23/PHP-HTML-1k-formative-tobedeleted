@@ -28,5 +28,12 @@
             <input type="submit" value="Nosūtīt" />
         </div>
     </form>
+
+    <ul>
+      <li>
+        <a href="index.php">Index</a>
+        <a href="about.php">About</a>
+      </li>
+    </ul>
 </body>
 </html>
